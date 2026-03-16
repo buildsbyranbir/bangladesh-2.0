@@ -1,0 +1,102 @@
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:sans-serif;
+}
+
+
+/* header */
+
+.header{
+display:flex;
+justify-content:space-between;
+padding:20px 60px;
+align-items:center;
+}
+
+.signin{
+padding:8px 18px;
+border:1px solid green;
+background:white;
+border-radius:6px;
+cursor:pointer;
+}
+
+
+
+/* hero */
+
+.hero{
+width:85%;
+margin:40px auto;
+background:#cfe7df;
+padding:60px;
+border-radius:12px;
+
+display:flex;
+justify-content:space-between;
+align-items:center;
+}
+
+.small{
+color:#5c6b65;
+margin-bottom:10px;
+}
+
+.hero h1{
+font-size:40px;
+margin-bottom:20px;
+}
+
+.explore{
+padding:12px 22px;
+background:#0c6b43;
+color:white;
+border:none;
+border-radius:6px;
+cursor:pointer;
+}
+
+.hero-img img{
+width:260px;
+}
+
+
+
+/* pillars */
+
+.pillars{
+width:85%;
+margin:auto;
+}
+
+.pillars h2{
+margin:40px 0;
+}
+
+.pillar-container{
+display:flex;
+gap:20px;
+}
+
+.card{
+background:#f5f5f5;
+padding:25px;
+border-radius:10px;
+width:220px;
+}
+
+.card img{
+width:40px;
+margin-bottom:10px;
+}
+
+.card h3{
+margin-bottom:10px;
+}
+
+.card p{
+font-size:14px;
+color:#666;
+}
