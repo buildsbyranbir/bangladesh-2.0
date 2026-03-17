@@ -100,3 +100,114 @@ margin-bottom:10px;
 font-size:14px;
 color:#666;
 }
+
+
+/* vision section */
+
+.vision{
+width:85%;
+margin:60px auto;
+}
+
+.vision h2{
+font-size:28px;
+margin-bottom:10px;
+}
+
+.vision-desc{
+color:#666;
+margin-bottom:30px;
+line-height:1.6;
+}
+
+.vision-container{
+display:flex;
+gap:20px;
+}
+
+.vision-card{
+padding:25px;
+border-radius:12px;
+width:300px;
+}
+
+.vision-card img{
+width:40px;
+margin-bottom:10px;
+}
+
+.vision-card h3{
+margin-bottom:10px;
+}
+
+.vision-card p{
+font-size:14px;
+margin-bottom:15px;
+color:#444;
+}
+
+.vision-card button{
+padding:10px 16px;
+border:none;
+border-radius:6px;
+color:white;
+cursor:pointer;
+}
+
+
+/* different colors */
+
+.blue{
+background:#dbe6f6;
+}
+
+.blue button{
+background:#3b82f6;
+}
+
+.green{
+background:#d9f2e6;
+}
+
+.green button{
+background:#16a34a;
+}
+
+.yellow{
+background:#f6eadb;
+}
+
+.yellow button{
+background:#f59e0b;
+}
+
+
+
+/* quote */
+
+.quote{
+width:85%;
+margin:40px auto;
+}
+
+.quote-box{
+background:#f3f3f3;
+padding:30px;
+border-radius:12px;
+}
+
+.quote-text{
+font-size:14px;
+color:#555;
+margin-bottom:20px;
+line-height:1.6;
+}
+
+.quote h4{
+margin-bottom:5px;
+}
+
+.quote span{
+font-size:13px;
+color:#777;
+}
