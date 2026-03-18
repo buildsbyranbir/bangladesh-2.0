@@ -211,3 +211,67 @@ margin-bottom:5px;
 font-size:13px;
 color:#777;
 }
+
+
+/* opinion section */
+
+.opinion{
+width:85%;
+margin:60px auto;
+}
+
+.opinion h2{
+margin-bottom:20px;
+}
+
+/* table container */
+
+.table-box{
+background:#f5f5f5;
+padding:20px;
+border-radius:12px;
+}
+
+/* table */
+
+table{
+width:100%;
+border-collapse:collapse;
+background:white;
+border-radius:10px;
+overflow:hidden;
+}
+
+/* header */
+
+thead{
+background:#cfe7df;
+}
+
+th{
+text-align:left;
+padding:15px;
+font-size:14px;
+}
+
+.right{
+text-align:right;
+}
+
+/* rows */
+
+td{
+padding:15px;
+border-top:1px solid #ddd;
+font-size:14px;
+}
+
+/* select */
+
+select{
+padding:8px 12px;
+border-radius:6px;
+border:1px solid #999;
+background:#e6f2ed;
+cursor:pointer;
+}
